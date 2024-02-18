@@ -1,2 +1,0 @@
-# testGithubPages
-Test github pages
